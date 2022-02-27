@@ -105,9 +105,6 @@ if (isset($_POST['girisform'])) {
 										<div class="mb-3">
 											<label class="form-label">Şifre</label>
 											<input class="form-control form-control-lg" type="password" name="password" placeholder="Şifrenizi giriniz." />
-											<small>
-												<a href="index.html">Şifremi unuttum</a>
-											</small>
 										</div>
 										<div>
 											<label class="form-check">
